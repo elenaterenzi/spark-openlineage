@@ -262,3 +262,5 @@ __pycache__/
 
 .vscode/
 local.settings.json
+__azurite_*__.json
+.gitignore
